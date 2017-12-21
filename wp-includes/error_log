@@ -1,0 +1,1 @@
+[29-May-2014 04:05:32 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/nhmybakk/public_html/wp-includes/kses.php on line 1422

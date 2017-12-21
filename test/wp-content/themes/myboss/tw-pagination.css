@@ -1,0 +1,116 @@
+/**
+ * Plugin Name: TW Pagination
+ * Plugin URI: http://vuckovic.biz/wordpress-plugins/tw-pagination
+ * Description: A simple and flexible pagination plugin for WordPress posts and comments.
+ * Author: Igor Vučković
+ * Author URI: http://vuckovic.biz
+ * Version: 1.0
+ */
+
+/* P A G E S   P A G I N A T I O N
+----------------------------------------*/
+.tw-pagination {
+	list-style: none;
+	width:695px;
+	margin:5px 10px;
+	float:left;
+	text-align:right;
+	padding:10px 0;
+}
+
+.tw-pagination li {
+	display:inline;
+	list-style: none;
+}
+
+.tw-pagination a {
+	background:#000;
+	border: 1px solid #363636;
+	color:#878787;
+	margin-right: 4px;
+	padding:5px;
+	text-align:center;
+	text-decoration:none;
+	transition:.5s;
+}
+
+.tw-pagination a:hover,.tw-pagination a:active {
+	background:#0f0;
+	color:#000;
+}
+
+.tw-pagination .title {
+	margin-right: 4px;
+}
+
+.tw-pagination .gap {
+	color: #999999;
+	margin-right: 4px;
+}
+
+.tw-pagination .current {
+	color: #000;
+	background: #0f0;
+	margin-right: 4px;
+	padding:5px;
+}
+
+.tw-pagination .page {
+	
+}
+
+.tw-pagination .prev,.tw-pagination .next {
+	
+}
+
+/* C O M M E N T S   P A G I N A T I O N
+----------------------------------------*/
+.tw-pagination-comments {
+	padding: 5px;
+	margin: 0;
+}
+
+.tw-pagination-comments li {
+	display: inline;
+	list-style: none;
+}
+
+.tw-pagination-comments a {
+	background: #e7e7e7;
+	border: 1px solid #d7d7d7;
+	color: #666666;
+	margin-right: 4px;
+	padding: 3px 6px;
+	text-align: center;
+	text-decoration: none;
+}
+
+.tw-pagination-comments a:hover,.tw-pagination-comments a:active {
+	background: #d7d7d7;
+	color: #888888;
+}
+
+.tw-pagination-comments .title {
+	margin-right: 4px;
+}
+
+.tw-pagination-comments .gap {
+	color: #999999;
+	margin-right: 4px;
+}
+
+.tw-pagination-comments .current {
+	color: #666666;
+	background: #f7f7f7;
+	border: 1px solid #e7e7e7;
+	margin-right: 4px;
+	padding: 3px 6px;
+}
+
+.tw-pagination-comments .page {
+	
+}
+
+.tw-pagination-comments .prev,.tw-pagination-comments .next {
+	
+}

@@ -1,0 +1,5 @@
+[07-Nov-2014 16:53:27 UTC] PHP Fatal error:  Call to undefined function the_ID() in /home/nhmybakk/public_html/wp-content/themes/twentytwelve/content.php on line 13
+[07-Nov-2014 16:54:16 UTC] PHP Fatal error:  Call to undefined function the_ID() in /home/nhmybakk/public_html/wp-content/themes/twentytwelve/content.php on line 13
+[07-Nov-2014 16:59:23 UTC] PHP Fatal error:  Call to undefined function the_ID() in /home/nhmybakk/public_html/wp-content/themes/twentytwelve/content.php on line 13
+[07-Nov-2014 17:01:25 UTC] PHP Fatal error:  Call to undefined function the_ID() in /home/nhmybakk/public_html/wp-content/themes/twentytwelve/content.php on line 13
+[07-Nov-2014 17:05:37 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/nhmybakk/public_html/wp-content/themes/twentytwelve/404.php on line 10
